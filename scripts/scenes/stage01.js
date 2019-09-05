@@ -47,7 +47,7 @@ class Stage01 extends Scene {
       p.push();
         p.textSize(80);
         p.textAlign(p.CENTER);
-        p.text('Congradulations!', 0, 300, p.width);
+        p.text('Congratulations!', 0, 300, p.width);
         p.textSize(40);
         p.text('Your death count(s) is: ' + this.deathCount, 0, 400, p.width);
         p.text('Thanks for playing!', 0, 500, p.width);
